@@ -49,10 +49,8 @@ This project allows users to increment, reset, and track the total number of cli
 3. **Run the program**
 
    ```bash
-   python main.py
+   python click-counter.py
    ```
-
-   *(Replace `main.py` with your actual file name if different)*
 
 ---
 
