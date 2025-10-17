@@ -54,17 +54,6 @@ This project allows users to increment, reset, and track the total number of cli
 
 ---
 
-## 📸 Preview
-
-*(Add your screenshots here once available)*
-Example:
-
-```
-![Click Counter App GUI](./assets/click-counter-preview.png)
-```
-
----
-
 ## 🧩 Future Enhancements
 
 * Add theme customization (Dark / Light Mode)
