@@ -5,16 +5,6 @@ This project allows users to increment, reset, and track the total number of cli
 
 ---
 
-##  Features
-
-* **Click Counter System** — users can click a button to increase the count
-* **Reset Function** — quickly reset the counter back to zero
-* **Undo / Decrease (optional)** — revert the last click (if added)
-* **Simple GUI Layout** — includes buttons and labels for easy interaction
-* **Real-time Update** — the counter updates instantly on every click
-
----
-
 ##  How It Works
 
 1. The program launches a **Tkinter window** with a counter label and buttons.
