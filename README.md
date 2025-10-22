@@ -42,25 +42,3 @@ This project allows users to increment, reset, and track the total number of cli
    python click-counter.py
    ```
 
----
-
-##  Future Enhancements
-
-* Add theme customization (Dark / Light Mode)
-* Include click sound effects
-* Save counter state between sessions
-* improve button styling with custom colors and fonts
-
----
-
-##  Author
-
-**Christian Daniel Cagas**
-
- Created as part of a learning project in GUI programming with Tkinter.
-
----
-
-## 📝 License
-
-This project is open-source under the **MIT License**.
